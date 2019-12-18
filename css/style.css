@@ -3,10 +3,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  height: 200px;
-  width: 600px;
-  
 }
-.prezzo h3 {
+.prezzo h3, p {
   margin-left: 10px;
 }
