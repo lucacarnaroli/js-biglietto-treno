@@ -1,0 +1,12 @@
+.prezzo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 600px;
+  
+}
+.prezzo h3 {
+  margin-left: 10px;
+}
